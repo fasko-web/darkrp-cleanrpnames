@@ -1,7 +1,7 @@
 # darkrp-cleanrpnames
 A DarkRP module for removing RP names from old users.
 
-Idk if this works or not, but if does then great.
+Idk if this works or not, but if it does then great.
 
 The idea is you probably restart your server every day or something, so this checks all your users' roleplay names once your server's started, and decides whether their name should be freed up or not based on the last time they've logged on.
 
